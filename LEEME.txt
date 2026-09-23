@@ -1,0 +1,5 @@
+VERSIÓN 4 - MI BELLO ARTE
+• Historial de abonos por pedido con fecha y monto.
+• Fecha en que se encargó cada pedido.
+• Recibo descargable como imagen PNG con cliente, producto, fecha del pedido, fecha de entrega, costo total, historial de abonos, total abonado y saldo.
+• Calendario por fecha de entrega y saldos automáticos.
